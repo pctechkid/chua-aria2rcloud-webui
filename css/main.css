@@ -5,20 +5,7 @@
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
-@font-face {
-  font-family: Ubuntu-Regular;
-  src: url('../fonts/ubuntu/Ubuntu-Regular.ttf'); 
-}
 
-@font-face {
-  font-family: Ubuntu-Bold;
-  src: url('../fonts/ubuntu/Ubuntu-Bold.ttf'); 
-}
-
-@font-face {
-  font-family: JosefinSans-Bold;
-  src: url('../fonts/JosefinSans/JosefinSans-Bold.ttf'); 
-}
 
 
 
@@ -132,7 +119,7 @@ iframe {
 /*//////////////////////////////////////////////////////////////////
 [ Utility ]*/
 .txt1 {
-  font-family: Ubuntu-Regular;
+  font-family: Helvetica;
   font-size: 15px;
   color: #999999;
   line-height: 1.4;
@@ -300,7 +287,7 @@ iframe {
   background-color: #3c4852;
   border-radius: 25px;
 
-  font-family: Ubuntu-Bold;
+  font-family: Helvetica;
   font-size: 15px;
   color: #fff;
   line-height: 1.2;
