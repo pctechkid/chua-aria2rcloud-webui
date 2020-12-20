@@ -19,7 +19,7 @@
 			document.getElementById("le-alert").classList.remove('alert-warning');
 			document.getElementById("le-alert").classList.add('alert-danger');
 			document.getElementById("alertlabel").innerHTML = "Error!";
-			document.getElementById("alertsubtext").innerHTML = "Invalid username/password.";
+			document.getElementById("alertsubtext").innerHTML = "Invalid username / password.";
 			$('#le-alert').addClass('in');
 			return false;
 		}
